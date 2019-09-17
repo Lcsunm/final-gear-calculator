@@ -1,29 +1,14 @@
-# final-gear-calculator
+临时演示地址
 
-## Project setup
-```
-npm install
-```
+http://fgc.fas.ink/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+算法和界面来自 命运之声大佬 公布的2.0
 
-### Run your tests
-```
-npm run test
-```
+https://www.bigfun.cn/post/47678
 
-### Lints and fixes files
-```
-npm run lint
-```
+武器数据来自 客心大佬 公布的
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://www.bigfun.cn/post/34159
+
+感谢他们付出
