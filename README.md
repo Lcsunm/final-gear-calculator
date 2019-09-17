@@ -11,4 +11,4 @@ https://www.bigfun.cn/post/47678
 
 https://www.bigfun.cn/post/34159
 
-感谢他们付出
+感谢他们的付出
