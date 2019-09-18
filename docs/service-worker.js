@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b774840f33865180118a5394aeea4810.js"
+  "/final-gear-calculator/precache-manifest.1bb11c097be7d6a314a5a58a288690f4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "final-gear-calculator"});
